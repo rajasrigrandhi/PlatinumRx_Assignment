@@ -1,11 +1,15 @@
 # PlatinumRx Data Analyst Assignment
 
 ## Overview
-This project demonstrates SQL and Python skills.
+This project demonstrates SQL, Excel, and Python skills.
 
 ## SQL
 - Created schemas for Hotel & Clinic systems
 - Used JOIN, GROUP BY, WINDOW FUNCTIONS
+
+## Excel
+- Used VLOOKUP to map data
+- Performed time-based analysis
 
 ## Python
 - Time conversion logic
